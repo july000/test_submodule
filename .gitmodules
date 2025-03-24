@@ -1,0 +1,3 @@
+[submodule "modules/added_submodule"]
+	path = modules/added_submodule
+	url = https://github.com/july000/added_submodule.git
